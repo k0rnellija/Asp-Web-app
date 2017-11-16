@@ -1,0 +1,9 @@
+C:\Users\Kornelija\source\repos\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Kornelija\source\repos\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Kornelija\source\repos\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Kornelija\source\repos\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kornelija\source\repos\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kornelija\source\repos\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Kornelija\source\repos\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Kornelija\source\repos\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Kornelija\source\repos\WebApp\WebApp\obj\Debug\WebApp.pdb
